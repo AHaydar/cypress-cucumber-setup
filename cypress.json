@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://www.google.com",
+  "ignoreTestFiles": "*.js",
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins",
+  "screenshotsFolder": "cypress/screenshots",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "supportFile": "cypress/support",
+  "videosFolder": "cypress/videos"
+}
